@@ -1,0 +1,27 @@
+/* remember that a (.) needs to go infront of class names for clarity.*/
+body {
+    background-image: url("/Users/appledododo/Documents/Personal Review Website/Images/body_background.jpeg");
+    background-repeat: no-repeat;
+    background-size: 100vw 100vh;
+    /* this background-size=screen scaling background-repeat=does the image repeat itself*/
+}
+.frontpage {
+    background-color: gainsboro;
+    width: 35%;
+    padding: 35px;
+    text-align: center;
+
+}
+.secondpagetest {
+    background-color: cadetblue;
+    width: 35%;
+    padding: 35px;
+    text-align: center;
+}
+li {
+    text-align: left;
+}
+a {
+    color:black
+    
+}
