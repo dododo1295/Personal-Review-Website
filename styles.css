@@ -13,7 +13,7 @@ body {
 
 }
 .secondpagetest {
-    background-color: cadetblue;
+    background-color:#333333;
     width: 35%;
     padding: 35px;
     text-align: center;
@@ -22,6 +22,6 @@ li {
     text-align: left;
 }
 a {
-    color:black
+    color:#000000
     
 }
